@@ -1,6 +1,9 @@
 # CS-GY 9163 - Application Security
 
-Welcome to ![Application Security](https://github.com/NYUAppSec/.github/blob/main/images/code.jpg)!
+Welcome to Application Security!
+![code](https://github.com/NYUAppSec/.github/blob/main/images/code.jpg)
+
+This course addresses the design and implementation of secure applications. Concentration is on writing software programs that make it difficult for intruders to exploit security holes.
 
 # Course Material
 Please beware there might be slight differences with the on-campus and cyberfellows version of this course, check with your instructor. 
